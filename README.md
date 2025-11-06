@@ -41,4 +41,4 @@ El conjunto de datos utilizado (asumiendo que se llama `datos.csv`) tiene la sig
 
 * **Python 3.x**
 * **Pandas:** Para la manipulación y análisis de datos.
-* **(Opcional) Jupyter Notebook:** Para la ejecución interactiva del análisis.
+* **Jupyter Notebook:** Para la ejecución interactiva del análisis.

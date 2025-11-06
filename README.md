@@ -29,10 +29,10 @@ El conjunto de datos utilizado (asumiendo que se llama `datos.csv`) tiene la sig
 | **Date** | `object` | Fecha de publicación o venta. |
 | **suburb** | `object` | Barrio de la propiedad. |
 | **postalCode**| `int` | Código postal. |
-| **sellPrice** | `float` / `int` | Precio final de venta. |
-| **bed** | `float` / `int` | Cantidad de habitaciones. |
-| **bath** | `float` / `int` | Cantidad de baños. |
-| **car** | `float` / `int` | Cantidad de espacios de estacionamiento. |
+| **sellPrice** | `int` | Precio final de venta. |
+| **bed** | `float` | Cantidad de habitaciones. |
+| **bath** | `int` | Cantidad de baños. |
+| **car** | `float` | Cantidad de espacios de estacionamiento. |
 | **propType** | `object` | Tipo de propiedad (ej: 'house', 'unit'). |
 
 ---
